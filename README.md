@@ -1,5 +1,5 @@
 # are you stalking me? 😔
-hey, my name's Abdelrahman and I like computers lol also I'm a computer and data science student.
+I like computers lol also I'm a computer and data science student.
 
 ---
 ## Skills I have
