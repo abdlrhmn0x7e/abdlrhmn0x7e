@@ -1,5 +1,5 @@
 # are you stalking me? 😔
-I like computers lol also I'm a computer and data science student.
+I like computers, also I'm a computer and data science student.
 
 ---
 ## Skills I have
