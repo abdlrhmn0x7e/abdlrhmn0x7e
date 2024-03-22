@@ -1,6 +1,6 @@
 are you stalking me? 😔
 ---
-Hi, I'm Abdalrahmna Mahmoud. I like computers, also I'm a computer and data science student.
+Hey, I'm Abdalrahman Mahmoud. I like computers, also I'm a computer and data science student.
 
 ### What I Know
 [![My Skills](https://skillicons.dev/icons?i=java,js,cpp,py,r,html,css,bootstrap,sass,webpack,mysql,git&perline=8)](https://skillicons.dev)
