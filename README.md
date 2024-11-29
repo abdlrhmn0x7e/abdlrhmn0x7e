@@ -1,6 +1,6 @@
 About Me
 ---
-Hi, I'm Abdalrahman, I'm currently studying Computer & Data Science and dabbling into the world of technology and computers, though I am mostly a hobbyist and sometimes I code for fun, I'm into Web Development in general though.
+Hi, I'm Abdalrahman, I'm currently studying Computer & Data Science and dabbling into the world of technology and computers, I am mostly a hobbyist and sometimes I code for fun, I'm into Web Development in general though.
 
 Some of my pinned projects include dotfiles for my Linux system ( I use arch & vim btw lol ) and some projects I'm proud of. I make software mostly for myself but I appreciate when people take a peek at it.
 
