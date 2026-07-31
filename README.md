@@ -3,8 +3,6 @@
 
 # hi i'm `abdalrahman`
 
-i'm a `egypt`-based tech nerd & i work on web apps using next.js and modern typescript ecosystem.
-
-i use arch, and vim, btw
+i'm a `egypt`-based tech nerd & i work on web apps using modern typescript ecosystem.
 
 feel free to check out [my personal site](https://abdlrhmn0x7e.vercel.app/)!!
